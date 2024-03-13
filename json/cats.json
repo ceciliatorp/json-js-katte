@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Mewson",
+      "weigth": "6 kg",
+      "breed": "Skovkat",
+      "img": "../img/kat1.jpg"
+    },
+    {
+        "name": "Fluff ball",
+        "weigth": "6 kg",
+        "breed": "Skovkat",
+        "img": "../img/kat2.jpg"
+    },
+    {
+        "name": "Puuurfect",
+        "weigth": "5 kg",
+        "breed": "Skovkat",
+        "img": "../img/kat3.jpg"
+    },
+    {
+        "name": "Kitty Cat",
+        "weigth": "3 kg",
+        "breed": "Skovkat",
+        "img": "../img/kat4.jpg"
+    }
+
+  ]
+  
